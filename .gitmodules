@@ -1,0 +1,3 @@
+[submodule "lib/lib_ipme"]
+	path = lib/lib_ipme
+	url = git@github.com:GreywardOne/lib_ipme.git
